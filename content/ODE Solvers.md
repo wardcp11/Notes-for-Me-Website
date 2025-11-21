@@ -3,7 +3,7 @@ title: ODE Solving Methods
 tags:
   - ODE
 created: 2025-01-01
-draft: true
+draft: false
 ---
 Ode solvers are a class of techniques to solve IVP systems of [ordinary differential equations](https://en.wikipedia.org/wiki/Ordinary_differential_equation). The general form can be seen below.
 $$
