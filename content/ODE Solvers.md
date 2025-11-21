@@ -12,6 +12,7 @@ $$
 General integrators include Runge-Kutta and Linear Multistep methods. 
 
 ## Runge-Kutta 
+
 Runge-Kutta methods use only the latest point and a variable step size to establish a weighted average for some desired point. This method relies on matching terms in the Taylor Series to establish some approximation error. A general description can be seen below.
 $$
 \begin{align*}
