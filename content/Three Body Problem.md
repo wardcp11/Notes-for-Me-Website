@@ -44,9 +44,9 @@ $$
 Simplifying further using the definition for $r$.
 $$
 \begin{align*}
-F_{mn,x} = -Gm_m m_n \frac{\hat{r}_m - \hat{r}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{x}}\\
-F_{mn,y} = -Gm_m m_n \frac{\hat{r}_m - \hat{r}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{y}}\\
-F_{mn,z} = -Gm_m m_n \frac{\hat{r}_m - \hat{r}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{z}}
+F_{mn,x} = -Gm_m m_n \frac{\mathbf{\hat{r}}_m - \mathbf{\hat{r}}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{x}}\\
+F_{mn,y} = -Gm_m m_n \frac{\mathbf{\hat{r}}_m - \mathbf{\hat{r}}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{y}}\\
+F_{mn,z} = -Gm_m m_n \frac{\mathbf{\hat{r}}_m - \mathbf{\hat{r}}_n}{|\hat{r}_m - \hat{r}_n|^{3/2}} \cdot \bf{\hat{z}}
 \end{align*}
 $$
 Noticing that the only vector components are held in $\mathbf{\hat{r}_m} - \mathbf{\hat{r}_n}$.
